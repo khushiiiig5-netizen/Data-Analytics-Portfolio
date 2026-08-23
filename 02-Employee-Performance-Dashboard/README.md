@@ -25,4 +25,4 @@ An interactive Power BI dashboard designed to analyze employee performance, comp
 
 ## Dashboard Preview
 
-![Employee Performance Dashboard](./Employee-Performance-Dashboard.png)
+![Employee Performance Dashboard](./Employee-sales-dashboard.png)
