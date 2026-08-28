@@ -24,9 +24,3 @@ An interactive Power BI dashboard designed to analyze café sales and transactio
 - Data Visualization
 - Business Analytics
 
-## Dashboard Preview
-
-![Café Sales Dashboard](./Cafe-Sales-Dashboard.png)
-## Dashboard Preview
-
-![Café Sales Dashboard](./Cafe-Sales-Dashboard.png)
